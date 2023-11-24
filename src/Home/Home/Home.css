@@ -1,0 +1,17 @@
+.abc:hover {
+    background-color: aquamarine;
+}
+
+.over {
+    overflow: hidden;
+    /* overflow-x: hidden; */
+   
+}
+
+.client{
+    display: grid; 
+    grid-template-columns: repeat(3,1fr);
+   column-gap: 40px;
+   margin: 0px 30px;
+   margin-bottom: 25px;
+}
